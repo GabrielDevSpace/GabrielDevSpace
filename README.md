@@ -5,7 +5,8 @@ Visit my WebSite: https://developerspace.com.br
 - :rocket: I’m looking to a top team to evolve improve my developer skills.
 - :star: My motto: "Not just be a user of technological solutions, but act as a creator of them!"
 <div>
-<img height="180em" src="http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/>
-<img height="180em" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/>
+<img width="300" src="http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/>
+  <br>
+<img width="300" height="300" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/>
 
 </div>
