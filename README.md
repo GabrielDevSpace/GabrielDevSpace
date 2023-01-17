@@ -6,7 +6,7 @@ Visit my WebSite: https://developerspace.com.br
 - :star: My motto: "Not just be a user of technological solutions, but act as a creator of them!"
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-  http://github-readme-stats-gabrieldevspace.vercel.app/api?username={GabrielDevSpace}&cc=000&tc=fff&ic=fff&bc=000
+  http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&cc=000&tc=fff&ic=fff&bc=000
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevSpace&layout=compact&langs_count=7&theme=dracula"/>
 </div>
