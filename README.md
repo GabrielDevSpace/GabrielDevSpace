@@ -7,6 +7,7 @@ Visit my WebSite: https://developerspace.com.br
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/>
+https://github-stats-alpha.vercel.app/api?username={GabrielDevSpace}&cc=000&tc=fff&ic=fff&bc=000  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevSpace&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
