@@ -7,6 +7,6 @@ Visit my WebSite: https://developerspace.com.br
 <div>
 <img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/>
   <br>
-<img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/>
+<!-- <img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/> -->
 
 </div>
