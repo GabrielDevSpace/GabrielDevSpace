@@ -10,7 +10,7 @@ Visit my WebSite: https://developerspace.com.br
 - ![image](https://github.com/GabrielDevSpace/GabrielDevSpace/assets/64210900/19aa5279-27c6-4fe9-b787-31f699c3b46a)
 
 <div>
-  <img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/>
-<!-- <img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/> -->
+ <!--  <img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api?username=GabrielDevSpace&show_icons=true&theme=dracula"/> -->
+<img width="350" src="http://github-readme-stats-gabrieldevspace.vercel.app/api/top-langs/?username=GabrielDevSpace&langs_count=5"/>
 
 </div>
